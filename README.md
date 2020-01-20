@@ -1,4 +1,4 @@
-# GD3 Entity Component System game engine 2018
+# GD3 Entity Component System game engine 2020
 
 Samen met de studenten coderen we een eigen (basis) game engine gebaseerd op de design pattern: Entity Component System (ECS).
 
