@@ -1,0 +1,25 @@
+.test--enabled {
+  background: green;
+  width: 100px;
+  height: 100px;
+  position: absolute; }
+
+body {
+  font-family: Menlo, Consolas, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  font-size: 12px;
+  line-height: 16px; }
+
+code {
+  border-radius: 3px; }
+
+.tutorial {
+  position: absolute;
+  width: 900px;
+  padding: 40px;
+  border: 4px solid gray;
+  border-radius: 3px;
+  left: 50%;
+  margin-left: -450px;
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
