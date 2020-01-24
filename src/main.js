@@ -1,6 +1,6 @@
 import Engine from "./engine";
 import MovementSystem from "./systems/movement.system";
-import Entity from "./entities/entitiy";
+import Entity from "./entities/entity";
 import Transform from "./components/transform.component";
 import Velocity from "./components/velocity.component";
 import Vec3 from './utils/vec3.utils.js';
